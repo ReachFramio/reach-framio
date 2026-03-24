@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Framio
             </Link>
             <p className="text-gray-300 max-w-md">
-              Best In Class Framio Software 
+              Best In Class Layout and DTP Software for Textile Design
             </p>
 
 
